@@ -16,7 +16,7 @@ or
 ```
 make clean dep all
 ```
-It will automaticall compile all the necessary files/codes, then generate the execution file.
+It will automatically compile all the necessary files/codes, then generate the execution file.
 Then type this,
 ```
 ./EXENAME
